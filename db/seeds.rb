@@ -55,12 +55,34 @@ Lesson.create!([
     {
       course_id: 1,
       name: 'Intro to PC600Q',
+      start_time: DateTime.parse("01/12/2017 10:00"),
+      end_time: DateTime.parse("01/12/2017 16:00"),
       description: 'Introduction to course concepts, review of syllabus, first lesson',
       body: 'Welcome to the PC Specialist Program. Please review the documents listed in the lesson resources.'
+    },
+    {
+      course_id: 1,
+      name: 'Microsoft Excel - Formulas and Functions',
+      start_time: DateTime.parse("01/12/2017 10:00"),
+      end_time: DateTime.parse("01/12/2017 16:00"),
+      description: 'The basics of constructing custom formulas in Excel to perform spreadsheet calculations',
+      body: 'Please review the documents listed below.'
+    },
+    {
+      course_id: 1,
+      name: 'Microsoft Word - Document Writing, Formatting, and Editing',
+      start_time: DateTime.parse("01/12/2017 10:00"),
+      end_time: DateTime.parse("01/12/2017 16:00"),
+      description: 'The basics of Word\'s formatting tools to create, edit, and publish professional documents',
+      body: 'Please review the documents listed below.'
     }
 ])
 
 Attendance.create!([
+  {
+    membership_id: 2,
+    lesson_id: 1
+  },
   {
     membership_id: 2,
     lesson_id: 1
