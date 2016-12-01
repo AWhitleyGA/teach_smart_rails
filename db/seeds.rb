@@ -20,13 +20,17 @@ User.create!([
     prefix: 'Mr.',
     first_name: 'Andrew',
     last_name: 'Whitley',
-    phone_number: '999-999-9999'
+    phone_number: '999-999-9999',
+    email: 'test1@gmail.com',
+    password: 'password'
   },
   {
     prefix: 'Mr.',
     first_name: 'Terrance',
     last_name: 'Bullock',
-    phone_number: '333-333-3333'
+    phone_number: '333-333-3333',
+    email: 'test2@gmail.com',
+    password: 'password'
   }
 ])
 
