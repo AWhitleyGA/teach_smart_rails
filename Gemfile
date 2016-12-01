@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-
+# JSON Web Tokens for User Auth
+gem 'jwt'
 # Devise for User Auth
 gem 'devise'
 # Cors for cross-origin access
