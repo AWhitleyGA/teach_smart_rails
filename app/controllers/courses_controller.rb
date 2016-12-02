@@ -1,8 +1,9 @@
 class CoursesController < ApplicationController
   before_filter :authenticate_request!
-  
+
   def index
-    @courses = Course.all
+    @user = current_user
+    @courses = @user.courses
     render json: @courses
   end
 
