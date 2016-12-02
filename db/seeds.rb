@@ -161,6 +161,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/12/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'Introduction to course concepts, review of syllabus, first lesson',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRm9fcHlPT0ZxZWs?usp=sharing',
       body: 'Welcome to the PC Specialist Program. Please review the documents listed in the lesson resources.'
     },
     {
@@ -169,6 +170,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/13/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'The basics of constructing custom formulas in Excel to perform spreadsheet calculations',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRm9fcHlPT0ZxZWs?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -177,6 +179,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/14/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'The basics of Word\'s formatting tools to create, edit, and publish professional documents',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRm9fcHlPT0ZxZWs?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -185,6 +188,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/12/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'Introduction to course concepts, review of syllabus, first lesson',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRm9fcHlPT0ZxZWs?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -193,6 +197,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/13/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'The basics of medical terminology and categorization',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRm9fcHlPT0ZxZWs?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -201,6 +206,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/14/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'Intro to medical insurance coding and processing',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRm9fcHlPT0ZxZWs?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -209,6 +215,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/12/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'Introduction to course concepts, review of syllabus, first lesson',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TbUdLQzdnYmZCb0k?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -217,6 +224,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/13/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'The basics of medical terminology and categorization',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TbUdLQzdnYmZCb0k?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -225,6 +233,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/14/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'Intro to medical insurance coding and processing',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TbUdLQzdnYmZCb0k?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -233,6 +242,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/12/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'Introduction to course concepts, review of syllabus, first lesson',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TbUdLQzdnYmZCb0k?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -241,6 +251,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/13/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'The basics of spreadsheet set-up, formatting, and calculations',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TbUdLQzdnYmZCb0k?usp=sharing',
       body: 'Please review the documents listed below.'
     },
     {
@@ -249,6 +260,7 @@ Lesson.create!([
       start_time: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
       end_time: DateTime.strptime("01/14/2017 16:00", "%m/%d/%Y %H:%M"),
       description: 'Intro to medical insurance coding and processing',
+      url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TbUdLQzdnYmZCb0k?usp=sharing',
       body: 'Please review the documents listed below.'
     }
 ])
@@ -256,82 +268,162 @@ Lesson.create!([
 Assignment.create!([
   {
     course_id: 1,
-    name: 'HW1'
+    name: 'HW1 - Entering Data into Excel',
+    description: 'Excel FastCourse Level 1, Lessons 1 & 2',
+    assigned_on: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/19/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TWlgxcUkwVkdxOVU?usp=sharing'
   },
   {
     course_id: 1,
-    name: 'HW2'
+    name: 'HW2 - Formulas and Functions',
+    description: 'Excel FastCourse Level 1, Lesson 3',
+    assigned_on: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/20/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TVGJRS3d2WnRLb2s?usp=sharing'
   },
   {
     course_id: 1,
-    name: 'HW3'
+    name: 'HW3 - Formatting Workbooks',
+    description: 'Excel FastCourse Level 1, Lesson 4',
+    assigned_on: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/21/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TdW5FNzFfejlxODQ?usp=sharing'
   },
   {
     course_id: 1,
-    name: 'HW4'
+    name: 'HW4 - Customizing Appearance',
+    description: 'Excel FastCourse Level 1, Lessons 5',
+    assigned_on: DateTime.strptime("01/15/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/22/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TTVZUWmVjbTBPNlU?usp=sharing'
   },
   {
     course_id: 1,
-    name: 'HW5'
+    name: 'HW5 - Creating Charts',
+    description: 'Excel FastCourse Level 1, Lessons 6',
+    assigned_on: DateTime.strptime("01/16/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/23/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TLWlxTVF1bmQ4OU0?usp=sharing'
   },
   {
     course_id: 2,
-    name: 'HW1'
+    name: 'HW1 - Entering Data into Excel',
+    description: 'Excel FastCourse Level 1, Lessons 1 & 2',
+    assigned_on: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/19/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TWlgxcUkwVkdxOVU?usp=sharing'
   },
   {
     course_id: 2,
-    name: 'HW2'
+    name: 'HW2 - Formulas and Functions',
+    description: 'Excel FastCourse Level 1, Lesson 3',
+    assigned_on: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/20/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TVGJRS3d2WnRLb2s?usp=sharing'
   },
   {
     course_id: 2,
-    name: 'HW3'
+    name: 'HW3 - Formatting Workbooks',
+    description: 'Excel FastCourse Level 1, Lesson 4',
+    assigned_on: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/21/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TdW5FNzFfejlxODQ?usp=sharing'
   },
   {
     course_id: 2,
-    name: 'HW4'
+    name: 'HW4 - Customizing Appearance',
+    description: 'Excel FastCourse Level 1, Lessons 5',
+    assigned_on: DateTime.strptime("01/15/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/22/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TTVZUWmVjbTBPNlU?usp=sharing'
   },
   {
     course_id: 2,
-    name: 'HW5'
+    name: 'HW5 - Creating Charts',
+    description: 'Excel FastCourse Level 1, Lessons 6',
+    assigned_on: DateTime.strptime("01/16/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/23/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TLWlxTVF1bmQ4OU0?usp=sharing'
   },
   {
     course_id: 3,
-    name: 'HW1'
+    name: 'HW1 - Setting up a Word Document',
+    description: 'Word FastCourse Level 1, Lesson 1',
+    assigned_on: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/19/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TUDdHRWh1MlllenM?usp=sharing'
   },
   {
     course_id: 3,
-    name: 'HW2'
+    name: 'HW2 - Document Formatting',
+    description: 'Word FastCourse Level 1, Lesson 2',
+    assigned_on: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/20/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRmwwLWVkdlZ4R3c?usp=sharing'
   },
   {
     course_id: 3,
-    name: 'HW3'
+    name: 'HW3 - Document Structure',
+    description: 'Word FastCourse Level 1, Lesson 3',
+    assigned_on: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/21/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TUGg2YmVlRTdvc3c?usp=sharing'
   },
   {
     course_id: 3,
-    name: 'HW4'
+    name: 'HW4 - Document Navigation, Sectioning, and Pagination',
+    description: 'Word FastCourse Level 1, Lesson 4',
+    assigned_on: DateTime.strptime("01/15/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/22/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TYTZxVkhQTGJPNXM?usp=sharing'
   },
   {
     course_id: 3,
-    name: 'HW5'
+    name: 'HW5 - Mail Merge and Templating',
+    description: 'Word FastCourse Level 1, Lesson 5',
+    assigned_on: DateTime.strptime("01/16/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/23/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TNVJCTm84NjNjNW8?usp=sharing'
   },
   {
     course_id: 4,
-    name: 'HW1'
+    name: 'HW1 - Setting up a Word Document',
+    description: 'Word FastCourse Level 1, Lesson 1',
+    assigned_on: DateTime.strptime("01/12/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/19/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TUDdHRWh1MlllenM?usp=sharing'
   },
   {
     course_id: 4,
-    name: 'HW2'
+    name: 'HW2 - Document Formatting',
+    description: 'Word FastCourse Level 1, Lesson 2',
+    assigned_on: DateTime.strptime("01/13/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/20/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TRmwwLWVkdlZ4R3c?usp=sharing'
   },
   {
     course_id: 4,
-    name: 'HW3'
+    name: 'HW3 - Document Structure',
+    description: 'Word FastCourse Level 1, Lesson 3',
+    assigned_on: DateTime.strptime("01/14/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/21/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TUGg2YmVlRTdvc3c?usp=sharing'
   },
   {
     course_id: 4,
-    name: 'HW4'
+    name: 'HW4 - Document Navigation, Sectioning, and Pagination',
+    description: 'Word FastCourse Level 1, Lesson 4',
+    assigned_on: DateTime.strptime("01/15/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/22/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TYTZxVkhQTGJPNXM?usp=sharing'
   },
   {
     course_id: 4,
-    name: 'HW5'
+    name: 'HW5 - Mail Merge and Templating',
+    description: 'Word FastCourse Level 1, Lesson 5',
+    assigned_on: DateTime.strptime("01/16/2017 10:00", "%m/%d/%Y %H:%M"),
+    due_on: DateTime.strptime("01/23/2017 10:00", "%m/%d/%Y %H:%M"),
+    url: 'https://drive.google.com/drive/folders/0B91wKS1Z8P_TNVJCTm84NjNjNW8?usp=sharing'
   }
 ])
